@@ -1,0 +1,45 @@
+.encabezado{
+background-color: blue;	
+color: white;
+text-align: center;
+padding: 49px 0;
+position: fixed;
+width: 100%;
+}
+.caja1{
+	position: relative;
+	left: 20px;
+	top: 28px;
+}
+.caja2{
+	position: relative;
+	left: 250px;
+	top: 28px;
+}
+.caja3{
+	position: relative;
+	top: 28px;
+	left: 300px;
+}
+.caja4{
+	position: relative;
+	left: 100px;
+	top : 28px
+}
+.caja5{
+	position:relative;
+	left: 150px;
+	top: 28px;
+}
+.caja6{
+	position: relative;
+	left: 150px;
+	top: 28px;
+}
+.contenedor{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	top: 100px;
+}
+
